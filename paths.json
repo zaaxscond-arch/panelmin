@@ -1,0 +1,15 @@
+{
+    "login": [
+        "admin", "administrator", "login", "admin/login", "admin/admin",
+        "wp-admin", "dashboard", "adminpanel", "panel", "cpanel",
+        "admincp", "backend", "auth", "signin", "admin/signin",
+        "root", "superadmin", "manager", "admin/index", "login/index",
+        "admin/dashboard", "sysadmin", "webadmin", "adminarea",
+        "controlpanel", "secure", "private", "portal"
+    ],
+    "database": [
+        "phpmyadmin", "mysql", "db", "database", "adminer",
+        "myadmin", "pma", "phpPgAdmin", "sqladmin", "dbadmin",
+        "sqlite", "admin/database", "admin/db", "mysql/admin"
+    ]
+}
