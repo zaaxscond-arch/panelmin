@@ -1,0 +1,9 @@
+{
+    "version": "2.0.0",
+    "author": "ZAAX",
+    "threads": 10,
+    "timeout": 5,
+    "max_results": 1000,
+    "color_output": true,
+    "save_results": true
+}
